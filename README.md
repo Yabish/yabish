@@ -4,5 +4,5 @@
 - 📫 Reach Me on `yabisharfath7@gmail.com`
 - 🤝 Connect Me on [LinkedIn](https://www.linkedin.com/in/yabish-arfath/)
 - 🎓 Bachelor of Science in Computer Science
-- 🎯 Full Stack developer in MEAN
+- 🎯 Full Stack developer in MEAN | MERN
 - 📱 Flutter Beginner
